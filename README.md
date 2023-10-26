@@ -1,24 +1,13 @@
-# README
+# FREE_DOC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository only contains Models and Migrations
 
-Things you may want to cover:
+Learn Ruby on Rails and data bases via a doctors' appointment app.
 
-* Ruby version
+To test it launch :
 
-* System dependencies
+bundle install
 
-* Configuration
+rails db:migrate
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+rails db:seed
